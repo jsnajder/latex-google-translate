@@ -13,4 +13,4 @@ Uses [Google Cloud Translation](https://googleapis.dev/python/translation/latest
 Requires a Google Cloud Platform (GCP) account with Cloud Translation service
 activated. The GCP project ID needs to be supplied as a command line argument.
 
-To manage GCP authentication, use the [`gcloud` tool](https://cloud.google.com/sdk/gcloud).
+To manage GCP authentication, use [`gcloud`](https://cloud.google.com/sdk/gcloud).
